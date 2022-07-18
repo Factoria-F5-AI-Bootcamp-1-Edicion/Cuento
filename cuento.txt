@@ -1,10 +1,28 @@
 En el principio...
+<<<<<<< HEAD
 La vida era sencilla antes de la invesión de la inteligencia artificial.
+=======
 
+Vaya ruido tenemos eh!
+>>>>>>> dbc51b77719516ab4785cf88d1c8182b879f4194
 
-
+Un escenario inesperado 
 Escribo en 18 de Julio de 2022 en Talent Garden. 
 Soy Wenya y nueva del clase.
 
 
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+cualquier cosa
+=======
 Soy Magaly, ánimo a todos!
+>>>>>>> a3962f4e0355cd8da498cb3194d3b206dcbdd6d2
