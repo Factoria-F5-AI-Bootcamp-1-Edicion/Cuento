@@ -1,8 +1,24 @@
 En el principio...
 
-
+Vaya ruido tenemos eh!
 
 Un escenario inesperado 
 Escribo en 18 de Julio de 2022 en Talent Garden. 
 Soy Wenya y nueva del clase.
 
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+cualquier cosa
+=======
+Soy Magaly, ánimo a todos!
+>>>>>>> a3962f4e0355cd8da498cb3194d3b206dcbdd6d2
